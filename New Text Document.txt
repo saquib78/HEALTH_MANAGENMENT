@@ -1,0 +1,42 @@
+
+teen bande keliye ek program banana hai vo 6 type ke text file kohandle karega
+
+hur bande ka doo file hoga, ek food aur dosra excercies ka. jo ismain dalega wo usmai append ho gaye ga.
+
+1>> read
+
+	a>>abdul
+		aa>>food
+		bb>>excercies
+	b>> malik
+		aa>>food
+		bb>>excercies
+	c>> saquib
+		aa>>food
+		bb>>excercies
+
+2>>retrive
+
+	a>>abdul
+		aa>>food
+		bb>>excercies
+	b>> malik
+		aa>>food
+		bb>>excercies
+	c>> saquib
+		aa>>food
+		bb>>excercies
+
+abdul_food.txt
+abdul_exe.txt
+
+saquib_food.txt
+saquib_exe.txt
+
+malik_food.txt
+malik_exe.txt
+
+
+
+
+
