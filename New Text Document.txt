@@ -1,4 +1,8 @@
 
+
+pseudo code 
+
+
 teen bande keliye ek program banana hai vo 6 type ke text file kohandle karega
 
 hur bande ka doo file hoga, ek food aur dosra excercies ka. jo ismain dalega wo usmai append ho gaye ga.
